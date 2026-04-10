@@ -33,4 +33,3 @@ AI 用了幾個很好懂的比喻：
 ```bash
 npm install
 npm run dev
-```text id="wqz3fj"
